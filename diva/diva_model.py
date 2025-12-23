@@ -432,7 +432,7 @@ class MISA_FR(nn.Module):
         # 3. Calculate Consistency and Difference Losses
         # These losses are typically used during training, not directly for inference output.
         consistency_loss = self.sim_loss(shared_v, shared_a)
-        difference_loss = self.diff_loss(private_v, private_a)
+        difference_loss = self.diff_loss(private_v, shared_v) + self.diff_loss(private_a, shared_a)
 
         # 4. Form Global Context Feature (Fso)
         # Concatenate all shared and private features
