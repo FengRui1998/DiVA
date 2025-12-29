@@ -399,7 +399,7 @@ class MISA_FR(nn.Module):
 
         # CrossAttention (not directly used in the provided forward pass, but defined)
         # Q_dim = self.represent_dim, k_V_dim = 4*self.represent_dim matches local_global interaction input
-        self.cross_attention = CrossAttention(Q_dim=self.represent_dim, k_V_dim=4 * self.represent_dim, d_k=self.d_k)
+        self.cross_attention = CrossAttention(Q_dim=self.represent_dim, K_V_dim=4 * self.represent_dim, d_k=self.d_k)
 
         # Classifier
         # Input to multihead_attention will be concatenation of enhanced private features: 2 * represent_dim
