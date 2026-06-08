@@ -11,3 +11,22 @@ Please stay tuned—we will update the repository with the release timeline and 
 
 
 Note: Due to data privacy concerns, the code we released is not complete in some details, but the model structure part is the full version. We have hidden the parts about the data due to data privacy concerns.
+
+
+---
+
+## 📖 Citation
+
+If you use **CogBench** in your research, please cite our paper:
+
+```bibtex
+@ARTICLE{11459363,
+  author     = {Feng, Rui and Chen, Hongbin and Yao, Yihao and Wu, Liuyu and Liang, Tao and Xiang, Wentao and Li, Jie and Loo, Chu Kiong and Yu, Junxiao and Wang, Wei and Li, Jianqing},
+  journal    = {IEEE Journal of Biomedical and Health Informatics}, 
+  title      = {Towards Cognitive Impairment Screening in Elderly Communities with Audio-Visual Modal Disentangled Representation Learning}, 
+  year       = {2026},
+  volume     = {},
+  number     = {},
+  pages      = {1-14},
+  keywords   = {Frequency modulation;Radio broadcasting;Filtering;Band-pass filters;Active filters;Filters;Microwave integrated circuits;Videos;Video equipment;Protocols;Cognitive impairment recognition;early screening;CIR-AV;disentangled representation learning;multimodal fusion},
+  doi        = {10.1109/JBHI.2026.3679693}}
