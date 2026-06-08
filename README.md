@@ -17,7 +17,7 @@ Note: Due to data privacy concerns, the code we released is not complete in some
 
 ## 📖 Citation
 
-If you use **CogBench** in your research, please cite our paper:
+If you use **DiVA** in your research, please cite our paper:
 
 ```bibtex
 @ARTICLE{11459363,
