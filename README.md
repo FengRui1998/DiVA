@@ -10,7 +10,7 @@ The code for this project will be released publicly after the corresponding pape
 Please stay tuned—we will update the repository with the release timeline and paper status accordingly.
 
 
-Note: Due to data privacy concerns, the code we released is not complete in some details, but the model structure part is the full version. We have hidden the parts about the data due to data privacy concerns.
+Note: Due to data privacy concerns, the code we released is not complete in some details, but the model structure part is the full version. Detailed information and access application procedures for our database are available at https://cogpic.github.io/.
 
 
 ---
