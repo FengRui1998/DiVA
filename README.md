@@ -20,7 +20,7 @@ Note: Due to data privacy concerns, the code we released is not complete in some
 If you use **DiVA** in your research, please cite our paper:
 
 ```bibtex
-@ARTICLE{11459363,
+@ARTICLE{feng2026towards,
   author     = {Feng, Rui and Chen, Hongbin and Yao, Yihao and Wu, Liuyu and Liang, Tao and Xiang, Wentao and Li, Jie and Loo, Chu Kiong and Yu, Junxiao and Wang, Wei and Li, Jianqing},
   journal    = {IEEE Journal of Biomedical and Health Informatics}, 
   title      = {Towards Cognitive Impairment Screening in Elderly Communities with Audio-Visual Modal Disentangled Representation Learning}, 
@@ -28,5 +28,4 @@ If you use **DiVA** in your research, please cite our paper:
   volume     = {},
   number     = {},
   pages      = {1-14},
-  keywords   = {Frequency modulation;Radio broadcasting;Filtering;Band-pass filters;Active filters;Filters;Microwave integrated circuits;Videos;Video equipment;Protocols;Cognitive impairment recognition;early screening;CIR-AV;disentangled representation learning;multimodal fusion},
   doi        = {10.1109/JBHI.2026.3679693}}
